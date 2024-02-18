@@ -1,0 +1,19 @@
+.view-book-card {
+  /* border: 1px solid black; */
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.view-book-card .book-name {
+  font-size: 1.5rem;
+}
+
+.lender-info {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
